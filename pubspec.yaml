@@ -1,8 +1,8 @@
 name: dink_plugins
 description: Dinkkiia Plugins
 version: 0.0.1
-author:
-homepage:
+author: Chrisgate Team <chrisgate01@gmail.com>
+homepage: https://github.com/chrisgate/dink_plugins
 
 environment:
   sdk: ">=2.1.0 <3.0.0"

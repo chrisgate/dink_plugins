@@ -1,5 +1,5 @@
 import 'package:dink_plugins/dink_plugins.dart';
-import 'package:dink_plugins_example/commons/navigation_drawer.dart';
+import '../commons/navigation_drawer.dart';
 import 'package:flutter/material.dart';
 
 import '../theme.dart';

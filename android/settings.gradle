@@ -1,0 +1,2 @@
+rootProject.name = 'dink_plugins'
+include ':Rfid.AsciiProtocol-Library'

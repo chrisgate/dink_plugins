@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:dink_plugins_example/theme.dart';
+
+import '../theme.dart';
 
 class DrawerListTile extends StatefulWidget {
   final String title;

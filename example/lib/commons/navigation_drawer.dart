@@ -1,8 +1,8 @@
-import 'package:dink_plugins_example/models/navigation_model.dart';
+import '../models/navigation_model.dart';
 import 'package:flutter/material.dart';
-import 'package:dink_plugins_example/theme.dart';
 
 
+import '../theme.dart';
 import 'drawer_list_tile.dart';
 
 class NavigationDrawer extends StatefulWidget {
