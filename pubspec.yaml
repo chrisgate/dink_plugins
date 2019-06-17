@@ -1,11 +1,11 @@
 name: dink_plugins
 description: Dinkkiia Plugins
-version: 0.0.1
+version: 0.0.2
 author: Chrisgate Team <chrisgate01@gmail.com>
 homepage: https://github.com/chrisgate/dink_plugins
 
 environment:
-  sdk: ">=2.1.0 <3.0.0"
+   sdk: ">=2.2.2 <3.0.0"
 
 dependencies:
   flutter:
